@@ -42,10 +42,9 @@ dist/
 .output/
 
 # Go
-go.work
-go.work.sum
 
 # others
 prompts.txt
 test/
 docs/
+notes/
