@@ -6,7 +6,6 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gmyy00/flowsphere/pkg/postgres"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
